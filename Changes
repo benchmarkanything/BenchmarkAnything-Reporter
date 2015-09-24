@@ -1,5 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.001     2015-09-24
         - initial release
         - handle reporting to a BenchmarkAnything HTTP/REST API
