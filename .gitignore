@@ -1,0 +1,6 @@
+.*
+!.gitignore
+BenchmarkAnything-Storage-Frontend-Lib-*
+Debian_CPANTS.txt
+nytprof*
+t/benchmarkanything.sqlite
