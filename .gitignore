@@ -1,6 +1,6 @@
 .*
 !.gitignore
-BenchmarkAnything-Storage-Frontend-Lib-*
+BenchmarkAnything-Reporter-*
 Debian_CPANTS.txt
 nytprof*
 t/benchmarkanything.sqlite
